@@ -1,0 +1,15 @@
+.container{
+    margin: 63px 227px;
+    padding: 29px 50px;
+    /* border: 1px solid black; */
+    background-color: #F3D1DC;
+    width: 65%;
+}
+
+#bs{
+    margin-top: 60px;
+}
+#ms{
+    color: rgb(255, 117, 186);
+    font-size: 45px;
+}
